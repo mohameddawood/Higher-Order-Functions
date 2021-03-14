@@ -1,6 +1,12 @@
 
 import org.junit.Test
-
+/*
+* this exapmle form eng-mohammed hammad channel
+* https://www.youtube.com/watch?v=oCb63QjJhoo
+* all waht i did that i wrote the example form C# to Kotlin
+*
+* created by Mohamed Dawood 
+*/
 class HigherOrderFunctions {
 
     var dOne: ((d: Double) -> Double) = ::testOne
